@@ -1,5 +1,5 @@
 ## Hello, welcome to our SECURITY DEVELOPER company.
 ### we are on social media
 <a herf="https://t.me/SecDev_uz">
-    <img scr="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUhIHuJuPqOkDW_bmAfWhrx_teIwmg_XRkgQ&s" width="40px">
+    <img scr="https://icon2.cleanpng.com/20240130/eh/transparent-telegram-logo-small-image-of-blue-circle-with-white-1710892055806.webp" width="40px">
 </a>
